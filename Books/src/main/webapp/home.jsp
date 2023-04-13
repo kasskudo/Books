@@ -66,14 +66,29 @@
 							action="https://www.wattpad.com/story/334031643-mi-vecino-me-comi%C3%B3-el-perro">
 							<button class="btn btn-outline-light btn-flat">Leelo!</button>
 						</form>
+
+						<section style="margin-top: 20px">
+							<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+								<div class="carousel-inner">
+									<div class="carousel-item active">
+										<img class="imgCar" src="static/img/bel.jpg" alt="First slide">
+									</div>
+									<div class="carousel-item">
+										<img class="imgCar" src="static/img/omarXbelen.jpg" alt="Second slide">
+									</div>
+<!-- 									<div class="carousel-item"> -->
+<!-- 										<img class="d-block w-100" src="..." alt="Third slide"> -->
+<!-- 									</div> -->
+								</div>
+							</div>
+						</section>
 					</div>
 				</div>
 				<div class="col-md-5 d-none d-md-block">
 					<img src="static/img/quevedo.jpg" alt="" class="w-100 tower">
 				</div>
-<!-- 				<div class="col-md-5 d-none d-md-block"> -->
-<!-- 					<img src="static/img/bel.jpg" alt="" class="w-100 tower"> -->
-<!-- 				</div> -->
+
+				<!-- style="background-color: white" -->
 			</div>
 		</div>
 	</header>
@@ -167,7 +182,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 d-none d-lg-block align-self-center">
-					<img src="static/img/eiffel-tower.svg" alt="" class="tower">
+					<img src="static/img/portada2.jpg" alt="" class="tower">
 				</div>
 			</div>
 		</div>

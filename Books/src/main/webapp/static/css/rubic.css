@@ -630,6 +630,11 @@ pre code {
   padding-left: 15px;
 }
 
+.imgCar{
+	width: 400px;
+	height: 300px;
+}
+
 .col {
   -webkit-flex-basis: 0;
       -ms-flex-preferred-size: 0;
