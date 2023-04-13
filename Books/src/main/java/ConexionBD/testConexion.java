@@ -6,7 +6,7 @@ import java.sql.Statement;
 
 
 public class testConexion {
-public static void main(String[] args, String q) {
+public static void main(String[] args) {
 	Conexion conexion = new Conexion();
 	Connection cn = null;
 	Statement stm = null;
@@ -15,7 +15,7 @@ public static void main(String[] args, String q) {
 	try {
 		cn = conexion.conectarBD(); 
 		stm = cn.createStatement();
-		rs = stm.executeQuery(q);
+		rs = stm.executeQuery("SELECT * FROM LIBRO");
 		
 		while(rs.next()) {
 			int idLibro = rs.getInt(1);
