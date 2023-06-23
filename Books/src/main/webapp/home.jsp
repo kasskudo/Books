@@ -76,9 +76,6 @@
 									<div class="carousel-item">
 										<img class="imgCar" src="static/img/omarXbelen.jpg" alt="Second slide">
 									</div>
-<!-- 									<div class="carousel-item"> -->
-<!-- 										<img class="d-block w-100" src="..." alt="Third slide"> -->
-<!-- 									</div> -->
 								</div>
 							</div>
 						</section>
@@ -88,32 +85,10 @@
 					<img src="static/img/quevedo.jpg" alt="" class="w-100 tower">
 				</div>
 
-				<!-- style="background-color: white" -->
 			</div>
 		</div>
 	</header>
 
-
-	<!-- 	<div class="social-wrapper" id="features"> -->
-	<!-- 		<div class="container"> -->
-	<!-- 			<div class="social-txt"> -->
-	<!-- 				<h6 class="title">Social Media</h6> -->
-	<!-- 				<p class="subtitle">Lorem ipsum dolor sit amet, consectetur -->
-	<!-- 					adipisicing elit. Possimus voluptate numquam sed expedita vitae -->
-	<!-- 					ipsa?</p> -->
-	<!-- 			</div> -->
-	<!-- 			<div class="social-links"> -->
-	<!-- 				<a href="javascript:void(0)" class="link"><i class="ti-facebook"></i></a> -->
-	<!-- 				<a href="javascript:void(0)" class="link"><i -->
-	<!-- 					class="ti-twitter-alt"></i></a> <a href="javascript:void(0)" -->
-	<!-- 					class="link"><i class="ti-google"></i></a> <a -->
-	<!-- 					href="javascript:void(0)" class="link"><i -->
-	<!-- 					class="ti-pinterest-alt"></i></a> <a href="javascript:void(0)" -->
-	<!-- 					class="link"><i class="ti-instagram"></i></a> <a -->
-	<!-- 					href="javascript:void(0)" class="link"><i class="ti-rss"></i></a> -->
-	<!-- 			</div> -->
-	<!-- 		</div> -->
-	<!-- 	</div> -->
 	<section class="section">
 		<div class="container">
 			<div class="row justify-content-around">
